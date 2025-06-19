@@ -1,1 +1,1 @@
-# lean_software_foundations
+# Software Foundations with Lean
